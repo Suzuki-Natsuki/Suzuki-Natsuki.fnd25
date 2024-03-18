@@ -88,6 +88,8 @@ for (let i = 1; i < 10; i++) {
       const passimg = document.getElementsByClassName(selectClass)[0];
       passimg.style.visibility = "hidden";
       complete += 1;
+      selectNo = null;
+      selectClass = null;
       finish();
     } else {
       displayText.innerText = "不正解です！";
