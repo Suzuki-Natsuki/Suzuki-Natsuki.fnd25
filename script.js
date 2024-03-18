@@ -1,8 +1,8 @@
 'use strict'
 // 1行目に記載している 'use strict' は削除しないでください
 
-const imgObj = [{img: "https://github.com/Suzuki-Natsuki/Suzuki-Natsuki.fnd25/blob/main/%E3%82%B7%E3%83%9E%E3%82%A8%E3%83%8A%E3%82%AC1.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ2.jpg"},
+const imgObj = [{img: "シマエナガ1.jpg"},
+                {img: "シマエナガ2.jpg"},
                 {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ3.jpg"},
                 {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ4.jpg"},
                 {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ5.jpg"},
