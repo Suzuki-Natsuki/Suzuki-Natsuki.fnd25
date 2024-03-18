@@ -3,14 +3,14 @@
 
 const imgObj = [{img: "シマエナガ1.jpg"},
                 {img: "シマエナガ2.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ3.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ4.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ5.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ6.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ7.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ8.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ9.jpg"},
-                {img: "C:/Users/1598223/Desktop/DIG/dig-foundations/foundations/00_preparation/picture/シマエナガ完成.jpg"}]
+                {img: "シマエナガ3.jpg"},
+                {img: "シマエナガ4.jpg"},
+                {img: "シマエナガ5.jpg"},
+                {img: "シマエナガ6.jpg"},
+                {img: "シマエナガ7.jpg"},
+                {img: "シマエナガ8.jpg"},
+                {img: "シマエナガ9.jpg"},
+                {img: "シマエナガ完成.jpg"}]
 
 reset();
 let complete = 0;
