@@ -1,0 +1,188 @@
+body {
+	background-color:rgb(53, 151, 136);
+}
+
+#sample {
+  position: absolute;
+  top: 120px;
+  left: 250px;
+  width: 330px;
+  height: 330px;
+}
+
+#title {
+  position: absolute;
+  top: 240px;
+  left: 630px;
+  font-size: xx-large;
+}
+
+.class2 {
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  width: 110px;
+  height: 110px;
+}
+
+.class3 {
+  position: absolute;
+  top: 180px;
+  left: 230px;
+  width: 110px;
+  height: 110px;
+}
+
+.class4 {
+  position: absolute;
+  top: 300px;
+  left: 70px;
+  width: 110px;
+  height: 110px;
+}
+
+.class5 {
+  position: absolute;
+  top: 420px;
+  left: 250px;
+  width: 110px;
+  height: 110px;
+}
+
+.class6 {
+  position: absolute;
+  top: 100px;
+  left: 900px;
+  width: 110px;
+  height: 110px;
+}
+
+.class7 {
+  position: absolute;
+  top: 180px;
+  left: 1100px;
+  width: 110px;
+  height: 110px;
+}
+
+.class8 {
+  position: absolute;
+  top: 270px;
+  left: 950px;
+  width: 110px;
+  height: 110px;
+}
+
+.class9 {
+  position: absolute;
+  top: 400px;
+  left: 1100px;
+  width: 110px;
+  height: 110px;
+}
+
+.class10 {
+  position: absolute;
+  top: 440px;
+  left: 900px;
+  width: 110px;
+  height: 110px;
+}
+
+.botton {
+  position:relative;
+	top: 430px;
+  text-align: center;
+}
+
+button {
+  width: 10em;
+  height:3em;
+  font-size: 20px;
+  background-color: rgb(255, 255, 96);
+  border-radius:20px;
+}
+
+h1{
+  color: white;
+}
+
+.correct1 {
+  position: absolute;
+  top: 180px;
+  left: 475px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct2 {
+  position: absolute;
+  top: 180px;
+  left: 585px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct3 {
+  position: absolute;
+  top: 180px;
+  left: 695px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct4 {
+  position: absolute;
+  top: 290px;
+  left: 475px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct5 {
+  position: absolute;
+  top: 290px;
+  left: 585px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct6 {
+  position: absolute;
+  top: 290px;
+  left: 695px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct7 {
+  position: absolute;
+  top: 400px;
+  left: 475px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct8 {
+  position: absolute;
+  top: 400px;
+  left: 585px;
+  width: 110px;
+  height: 110px;
+}
+
+.correct9 {
+  position: absolute;
+  top: 400px;
+  left: 695px;
+  width: 110px;
+  height: 110px;
+}
+
+.judgement{
+  margin: auto;
+  text-align: center;
+  width: 200px;
+  color: white;
+  font-size: xx-large;
+}
